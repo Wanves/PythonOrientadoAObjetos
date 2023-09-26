@@ -35,3 +35,8 @@ if __name__=='__main__':
 # A generar archivos .py en Google Colab.
 # A ejecutar archivos .py en el Command Prompt.
 # A definir y ejecutar funciones en Python.
+
+# Lo que aprendimos en esta aula:
+
+# Entender cómo funciona la variable __name__.
+# Las diferencias entre Python y C.
