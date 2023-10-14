@@ -162,3 +162,10 @@ for contenido in playlist_fds:
     print(" ")
 print(f'Tamaño de la playlist: {playlist_fds.__len__()}')
 print(" ")
+
+# Lo que aprendimos en esta aula:
+
+# Duck Typing;
+# Python Data (object) Model;
+# Dunder methods;
+# Uso de Clases Abstractas (ABCs).
