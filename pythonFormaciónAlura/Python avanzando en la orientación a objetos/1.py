@@ -19,6 +19,10 @@ class Pelicula:
     def me_gusta(self):
         return self.__me_gusta
 
+    @nombre.setter
+    def nombre(self, nuevo_nombre):
+        self.__nombre = nuevo_nombre.title()
+
     def __str__(self):
         print(" ")
         print(f'Nombre de película: {self.nombre.title()}')
@@ -46,6 +50,10 @@ class Serie:
     def me_gusta(self):
         return self.__me_gusta
 
+    @nombre.setter
+    def nombre(self, nuevo_nombre):
+        self.__nombre = nuevo_nombre.title()
+
     def __str__(self):
         print(" ")
         print(f'Nombre de serie: {self.nombre.title()}')
@@ -68,6 +76,7 @@ spr.gusta()
 spr.gusta()
 spr.gusta()
 
+spr.nombre = 'rescatando al soldado ryan'
 spr.__str__()
 print(" ")
 
@@ -82,7 +91,14 @@ hl.gusta()
 hl.gusta()
 hl.gusta()
 
+hl.nombre = 'new hartland'
 hl.__str__()
 print(" ")
 
+# Lo que aprendimos en esta aula:
 
+# La construcción de objetos y clases, utilizando encapsulamiento;
+# Creación de clase;
+# Definición de métodos asesores;
+# @property;
+# name.
