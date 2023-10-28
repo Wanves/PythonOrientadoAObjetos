@@ -1,3 +1,5 @@
+![68747470733a2f2f692e696d6775722e636f6d2f6753635336567a2e706e67](https://github.com/Wanves/PythonOrientadoAObjetos/assets/107213869/47d53279-828f-4f42-9ab0-e8d01910f14a)
+
 Programación Orientada a Objetos
 Antes de nada, empecemos con una introducción básica a la Programación Orientada a Objetos POO o OOP en inglés. Se trata de un paradigma de programación introducido en los años 1970s, pero que no se hizo popular hasta años más tarde.
 
